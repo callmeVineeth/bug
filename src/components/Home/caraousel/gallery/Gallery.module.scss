@@ -33,6 +33,11 @@ $column-4-height: 450px;
         height: $column-2-3-height;
     }
 
+    .column-3{
+        margin-top: 234px;
+        margin-left: -260px;
+    }
+
     .column-4 {
         flex: 0 0 $column-4-width;
         height: $column-4-height;
